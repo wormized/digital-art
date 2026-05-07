@@ -1,408 +1,411 @@
 const completedPieces = [
   {
-    file: "piece1.png"
+    file: "piece1.PNG"
   },
 
   {
-    file: "piece2.png"
+    file: "piece2.PNG"
   },
 
   {
-    file: "piece3.png"
+    file: "piece3.PNG"
   },
 
   {
-    file: "piece4.png"
+    file: "piece4.PNG"
   },
 
   {
-    file: "piece5.png"
+    file: "piece5.PNG"
   },
 
   {
-    file: "piece6.png"
+    file: "piece6.PNG"
   },
 
   {
-    file: "piece7.png"
+    file: "piece7.PNG"
   },
 
   {
-    file: "piece8.png"
+    file: "piece8.PNG"
   },
 
   {
-    file: "piece9.png"
+    file: "piece9.PNG"
   },
 
   {
-    file: "piece10.png"
+    file: "piece10.PNG"
   },
 
   {
-    file: "piece11.png"
+    file: "piece11.PNG"
   },
 
   {
-    file: "piece12.png"
+    file: "piece12.PNG"
   },
 
   {
-    file: "piece13.png"
+    file: "piece13.PNG"
   },
 
   {
-    file: "piece14.png"
+    file: "piece14.PNG"
   },
 
   {
-    file: "piece15.png"
+    file: "piece15.PNG"
   },
 
   {
-    file: "piece16.png"
+    file: "piece16.PNG"
   },
 
   {
-    file: "piece17.png"
+    file: "piece17.PNG"
   },
 
   {
-    file: "piece18.png"
+    file: "piece18.PNG"
   },
 
   {
-    file: "piece19.png"
+    file: "piece19.PNG"
   },
 
   {
-    file: "piece20.png"
+    file: "piece20.PNG"
   },
 
   {
-    file: "piece21.png"
+    file: "piece21.PNG"
   },
 
   {
-    file: "piece22.png"
+    file: "piece22.PNG"
   },
 
   {
-    file: "piece23.png"
+    file: "piece23.PNG"
   },
 
   {
-    file: "piece24.png"
+    file: "piece24.PNG"
   },
 
   {
-    file: "piece25.png"
+    file: "piece25.PNG"
   },
 
   {
-    file: "piece26.png"
+    file: "piece26.PNG"
   },
 
   {
-    file: "piece27.png"
+    file: "piece27.PNG"
   },
 
   {
-    file: "piece28.png"
+    file: "piece28.PNG"
   },
 
   {
-    file: "piece29.png"
+    file: "piece29.PNG"
   },
 
   {
-    file: "piece30.png"
+    file: "piece30.PNG"
   },
 
   {
-    file: "piece31.png"
+    file: "piece31.PNG"
   },
 
   {
-    file: "piece32.png"
+    file: "piece32.PNG"
   },
 
   {
-    file: "piece33.png"
+    file: "piece33.PNG"
   },
 
   {
-    file: "piece34.png"
+    file: "piece34.PNG"
   },
 
   {
-    file: "piece35.png"
+    file: "piece35.PNG"
   },
 
   {
-    file: "piece36.png"
+    file: "piece36.PNG"
   },
 
   {
-    file: "piece37.png"
+    file: "piece37.PNG"
   },
 
   {
-    file: "piece38.png"
+    file: "piece38.PNG"
   },
 
   {
-    file: "piece39.png"
+    file: "piece39.PNG"
   },
 
   {
-    file: "piece40.png"
+    file: "piece40.PNG"
   },
 
   {
-    file: "piece41.png"
+    file: "piece41.PNG"
   },
 
   {
-    file: "piece42.png"
+    file: "piece42.PNG"
   },
 
   {
-    file: "piece43.png"
+    file: "piece43.PNG"
   },
 
   {
-    file: "piece44.png"
+    file: "piece44.PNG"
   },
 
   {
-    file: "piece45.png"
+    file: "piece45.PNG"
   },
 
   {
-    file: "piece46.png"
+    file: "piece46.PNG"
   },
 
   {
-    file: "piece47.png"
+    file: "piece47.PNG"
   },
 ];
 
 
 const sketches = [
   {
-    file: "sketch1.png"
+    file: "sketch1.PNG"
   },
 
   {
-    file: "sketch2.png"
+    file: "sketch2.PNG"
   },
 
   {
-    file: "sketch3.png"
+    file: "sketch3.PNG"
   },
 
   {
-    file: "sketch4.png"
+    file: "sketch4.PNG"
   },
 
   {
-    file: "sketch5.png"
+    file: "sketch5.PNG"
   },
 
   {
-    file: "sketch6.png"
+    file: "sketch6.PNG"
   },
 
   {
-    file: "sketch7.png"
+    file: "sketch7.PNG"
   },
 
   {
-    file: "sketch8.png"
+    file: "sketch8.PNG"
   },
 
   {
-    file: "sketch9.png"
+    file: "sketch9.PNG"
   },
 
   {
-    file: "sketch10.png"
+    file: "sketch10.PNG"
   },
 
   {
-    file: "sketch11.png"
+    file: "sketch11.PNG"
   },
 
   {
-    file: "sketch12.png"
+    file: "sketch12.PNG"
   },
 
   {
-    file: "sketch13.png"
+    file: "sketch13.PNG"
   },
 
   {
-    file: "sketch14.png"
+    file: "sketch14.PNG"
   },
 
   {
-    file: "sketch15.png"
+    file: "sketch15.PNG"
   },
 
   {
-    file: "sketch16.png"
+    file: "sketch16.PNG"
   },
 
   {
-    file: "sketch17.png"
+    file: "sketch17.PNG"
   },
 
   {
-    file: "sketch18.png"
+    file: "sketch18.PNG"
   },
 
   {
-    file: "sketch19.png"
+    file: "sketch19.PNG"
   },
 
   {
-    file: "sketch20.png"
+    file: "sketch20.PNG"
   },
 
   {
-    file: "sketch21.png"
+    file: "sketch21.PNG"
   },
 
   {
-    file: "sketch22.png"
+    file: "sketch22.PNG"
   },
 
   {
-    file: "sketch23.png"
+    file: "sketch23.PNG"
   },
 
   {
-    file: "sketch24.png"
+    file: "sketch24.PNG"
   },
 
   {
-    file: "sketch25.png"
+    file: "sketch25.PNG"
   },
 
   {
-    file: "sketch27.png"
+    file: "sketch27.PNG"
   },
 
   {
-    file: "sketch28.png"
+    file: "sketch28.PNG"
   },
 
   {
-    file: "sketch29.png"
+    file: "sketch29.PNG"
   },
 
   {
-    file: "sketch30.png"
+    file: "sketch30.PNG"
   },
 
   {
-    file: "sketch31.png"
+    file: "sketch31.PNG"
   },
 
   {
-    file: "sketch32.png"
+    file: "sketch32.PNG"
   },
 
   {
-    file: "sketch33.png"
+    file: "sketch33.PNG"
   },
 
   {
-    file: "sketch45.png"
+    file: "sketch44.PNG"
   },
 
   {
-    file: "sketch46.png"
+    file: "sketch45.PNG"
   },
 
   {
-    file: "sketch47.png"
+    file: "sketch46.PNG"
   },
 
   {
-    file: "sketch48.png"
+    file: "sketch47.PNG"
   },
 
   {
-    file: "sketch49.png"
+    file: "sketch48.PNG"
   },
 
   {
-    file: "sketch50.png"
+    file: "sketch49.PNG"
   },
 
   {
-    file: "sketch51.png"
+    file: "sketch50.PNG"
   },
 
   {
-    file: "sketch52.png"
+    file: "sketch51.PNG"
   },
 
   {
-    file: "sketch53.png"
+    file: "sketch52.PNG"
   },
 
   {
-    file: "sketch54.png"
+    file: "sketch53.PNG"
   },
 
   {
-    file: "sketch55.png"
+    file: "sketch54.PNG"
   },
 
   {
-    file: "sketch56.png"
+    file: "sketch55.PNG"
   },
 
   {
-    file: "sketch57.png"
+    file: "sketch56.PNG"
   },
 
   {
-    file: "sketch58.png"
+    file: "sketch57.PNG"
   },
 
   {
-    file: "sketch59.png"
+    file: "sketch58.PNG"
   },
 
   {
-    file: "sketch60.png"
+    file: "sketch59.PNG"
   },
 
   {
-    file: "sketch61.png"
+    file: "sketch60.PNG"
   },
 
   {
-    file: "sketch62.png"
+    file: "sketch61.PNG"
   },
 
   {
-    file: "sketch63.png"
+    file: "sketch62.PNG"
   },
 
   {
-    file: "sketch64.png"
+    file: "sketch63.PNG"
   },
 
   {
-    file: "sketch65.png"
+    file: "sketch64.PNG"
+  },
+
+  {
+    file: "sketch65.PNG"
   },
 ];
-
 
 function populateGallery(id, data, folder) {
 
