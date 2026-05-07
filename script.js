@@ -4,11 +4,11 @@ const completedPieces = [
   },
 
   {
-    file: "piece2.PNG"
+    file: "piece2.png"
   },
 
   {
-    file: "piece3.PNG"
+    file: "piece3.png"
   },
 
   {
@@ -215,7 +215,7 @@ const sketches = [
   },
 
   {
-    file: "sketch7.PNG"
+    file: "sketch7.png"
   },
 
   {
