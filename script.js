@@ -443,7 +443,8 @@ function showGallery(id) {
     tab.classList.remove('active');
   });
 
-  document.getElementById(id).classList.add('active-gallery');
+  const activeGallery = document.getElementById(id);
+  activeGallery.classList.add('active-gallery');
 
   if (id === 'completed') {
     document.querySelectorAll('.tab')[0].classList.add('active');
@@ -451,8 +452,8 @@ function showGallery(id) {
     document.querySelectorAll('.tab')[1].classList.add('active');
   }
 
-  window.scrollTo({
-    top: 0,
-    behavior: 'smooth'
+  activeGallery.scrollIntoView({
+    behavior: 'smooth',
+    block: 'start'
   });
 }
