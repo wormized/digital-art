@@ -1,2 +1,2 @@
 this is for artshow... meant for mobile devices...........
-https://wormized.github.io/digital-art/
+viewable at https://wormized.github.io/digital-art/
