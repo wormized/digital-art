@@ -55,12 +55,15 @@ h1 {
 .statement {
   max-width: 650px;
   margin: auto;
-  line-height: 1.6;
+  line-height: 1.45;
+  font-size: 0.92rem;
   background: rgba(255,255,255,0.45);
-  padding: 16px;
-  border-radius: 20px;
+  padding: 12px 14px;
+  border-radius: 18px;
   backdrop-filter: blur(8px);
 }
+
+
 
 .tabs {
   position: sticky;
@@ -68,12 +71,12 @@ h1 {
   z-index: 100;
 
   display: flex;
-  gap: 12px;
+  gap: 8px;
   justify-content: center;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
 
-  margin: 32px 0;
-  padding: 12px 8px;
+  margin: 24px 0;
+  padding: 10px 6px;
 
   background: rgba(239, 230, 215, 0.88);
   backdrop-filter: blur(10px);
@@ -81,11 +84,11 @@ h1 {
 
 .tab {
   border: none;
-  padding: 14px 20px;
+  padding: 10px 14px;
   border-radius: 999px;
   background: rgba(255,255,255,0.7);
   cursor: pointer;
-  font-size: 1rem;
+  font-size: 0.9rem;
   transition: 0.2s ease;
 }
 
