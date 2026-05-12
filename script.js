@@ -186,6 +186,10 @@ const completedPieces = [
   {
     file: "piece47.PNG"
   },
+  
+  {
+    file: "piece48.PNG"
+  },
 ];
 
 
