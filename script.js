@@ -371,10 +371,6 @@ const sketches = [
   },
 
   {
-    file: "sketch57.PNG"
-  },
-
-  {
     file: "sketch58.PNG"
   },
 
